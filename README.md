@@ -1,4 +1,4 @@
-# Calculator
+# Calculator using HTML and CSS
 
 The Basic Calculator is a user-friendly web-based calculator designed using HTML and CSS. It features a compact and intuitive interface with a display area for inputting mathematical expressions and viewing real-time results. The calculator includes a keypad with buttons for numbers, operators, and special functions, making it effortless to perform basic arithmetic calculations. 
 
